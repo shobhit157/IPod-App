@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/IPod-App/static/css/main.66c406cf.css",
+    "main.js": "/IPod-App/static/js/main.34411804.js",
+    "static/media/TroyBoiAfterhours.mp3": "/IPod-App/static/media/TroyBoiAfterhours.2463092703220882fe2d.mp3",
+    "static/media/coverflow.png": "/IPod-App/static/media/coverflow.8fd5fa6b3193238e9882.png",
+    "static/media/albums.png": "/IPod-App/static/media/albums.212396925861df2bc7cc.png",
+    "static/media/games.jpg": "/IPod-App/static/media/games.267611de302a8f6dc337.jpg",
+    "static/media/thumbnail.jpg": "/IPod-App/static/media/thumbnail.1917b898efdbfcba9342.jpg",
+    "static/media/artists.jpg": "/IPod-App/static/media/artists.0fa55793919e01da85c4.jpg",
+    "index.html": "/IPod-App/index.html",
+    "main.66c406cf.css.map": "/IPod-App/static/css/main.66c406cf.css.map",
+    "main.34411804.js.map": "/IPod-App/static/js/main.34411804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66c406cf.css",
+    "static/js/main.34411804.js"
+  ]
+}
