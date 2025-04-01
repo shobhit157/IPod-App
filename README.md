@@ -1,5 +1,4 @@
-iPod App
-
+# iPod App
 Overview 
 
 This is a React-based iPod simulation that replicates the classic iPod navigation experience. It features a clickable menu, rotating wheel navigation, and interactive screens for different functionalities such as Coverflow, Music, Games, and Settings.
